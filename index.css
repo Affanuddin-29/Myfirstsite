@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Roboto Condensed;
+}
+h1{
+    font-size: 3rem;
+    color: #52357B;
+    margin: 50px auto 0 auto;
+}
+h2{
+    font-size: 1.5rem;
+    color: #52357B;
+    padding-top: 10px;
+}
+.top-cloud{
+  position: absolute;
+  left: 1200px;
+  top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 220px;
+}
+.top-container{
+    background-color: #A4CCD9;
+    padding-top: 50px;
+}
+.bitemoji{
+    height: 200px;
+    width: 200px;
+}
+.hello{
+    font-size: 45px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 45px;
+    font-size: 20px;
+}
+.dotted{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    padding-bottom: 40px;
+}
+.lit{
+font-size: 40px;
+}
+.leftskill-row{
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    padding-top: 20%;
+}
+.rightskill-row{
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: right;
+}
+.content{
+    float: right;
+}
+.coding-gif{
+    /* padding-right: 1200px; */
+    float: left;
+}
+.hotwings{
+    /* padding-left: 500px; */
+    padding-top: 1px;
+    float: right;
+}
+.coding{
+    color: #52357B;
+    font-size: 25px;
+}
+.wings{
+    color: #52357B;
+    font-size: 25px;
+}
+.dotted2{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+.touch{
+    font-size: 2.5rem;
+    opacity: 0.8;
+    padding-top: 20px;
+}
+.learning{
+    color: #52357B;
+    padding-bottom: 20px;
+}
+.para{
+    padding-bottom: 20px;
+}
+#contactme{
+    background-color: #52357B;
+    color: #ffffff;
+    margin: 10px 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 180px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.anchor{
+    color: aliceblue;
+    font-size: 19px;
+    text-decoration: none;
+    text-align: center;
+}
+.dotted3{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    padding-bottom: 20px;
+}
+.head{
+    font-size: 2.9rem;
+    opacity: 0.9;
+}
+.scanner{
+    height: 500px;
+    width: 500px;
+}
+.bottom-container{
+    background-color: #52357B;
+    padding: 50px 0 50px;
+    position: relative;
+    top: 100px;
+    bottom: 100px;
+}
+.LinkdIn{
+    color: white;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.instagram{
+    color: white;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.mycv{
+    color: white;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.para1{
+    color: white;
+    font-size: 12px;
+    position: relative;
+    right: 25px;
+    padding-top: 20px;
+}
+a:hover{
+    color: cadetblue;
+}
